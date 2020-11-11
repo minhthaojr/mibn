@@ -28,6 +28,7 @@ namespace QLTHUVIEN
             da.Fill(dt);
             conn.Close();
             dataGridView1.DataSource = dt;
+            asfsaf
         }
 
         private void book_Load(object sender, EventArgs e)
