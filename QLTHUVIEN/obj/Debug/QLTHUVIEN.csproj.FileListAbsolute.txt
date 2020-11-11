@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.Properties.Resources.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.exe
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.pdb
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.login.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.admin.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.DOCGIA.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.book.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.Muon.resources
+C:\Users\ADMIN\Documents\baitapvisua\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.DOIMKcs.resources
